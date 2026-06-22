@@ -1,4 +1,5 @@
 *.o
 url_shortener
 urls.db
+.vscode/
 .DS_Store

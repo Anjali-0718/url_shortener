@@ -1,0 +1,4 @@
+*.o
+url_shortener
+urls.db
+.DS_Store
